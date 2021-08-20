@@ -14,7 +14,7 @@ The remaining time will be for group projects and presentations.
 
 Each of these lectures have been recorded and are available on the [AMAT 502 YouTube Channel](https://www.youtube.com/channel/UC3HHUGPjUfyH0YmkYXfFMbQ). Please subscribe!
 
-Remember, *you're job is to watch the lectures before class so that we can work on the corresponding LIVE notebook during class!*
+*It is your responsibility to watch the lectures before class so that we can work on the corresponding LIVE notebook during class!*
 
 ## Pre-Requisites
 
