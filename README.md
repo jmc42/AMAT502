@@ -1,6 +1,6 @@
 # AMAT 502 - Modern Computing for Mathematicians
 
-Welcome to the Fall 2021 semester of AMAT 502 at UAlbany!
+Welcome to the Spring 2022 semester of AMAT 502 at UAlbany!
 
 ## Course Description
 
