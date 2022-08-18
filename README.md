@@ -1,6 +1,6 @@
 # AMAT 502 - Modern Computing for Mathematicians
 
-Welcome to the Spring 2022 semester of AMAT 502 at UAlbany!
+Welcome to the Fall 2022 semester of AMAT 502 at UAlbany!
 
 ## Course Description
 
@@ -9,8 +9,8 @@ Welcome to the Spring 2022 semester of AMAT 502 at UAlbany!
 At a high-level, this course has three parts:
   - 8 lectures on Programming Fundamentals in Python
   - 4 lectures on Numpy, SciPy and Statistics
-  - 12 lectures on the machine learning using Pandas and Scikit-Learn as well as its conceptual underpinnings.
-The remaining time will be for group projects and presentations.
+  - 11 lectures on the machine learning using Pandas and Scikit-Learn as well as its conceptual underpinnings.
+The remaining time will be for group projects and presentations. See [this semester's website for more info](https://amat502.github.io/).
 
 Each of these lectures have been recorded and are available on the [AMAT 502 YouTube Channel](https://www.youtube.com/channel/UC3HHUGPjUfyH0YmkYXfFMbQ). Please subscribe!
 
